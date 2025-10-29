@@ -121,6 +121,16 @@ If you find our work useful for your research, please cite our paper:
 @article{liu2025-fast-bagel,
   title   = {LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency},
   author  = {Fangbing Liu and Pengfei Duan and Wen Li and Yi He},
+  journal = {arXiv preprint arXiv:2511.todo},
+  year    = {2025}
+}
+```
+We also encourage you to cite the original **ByteDance BAGEL** paper, upon which our work is built:
+
+```bibtex
+@article{deng2025bagel,
+  title   = {Emerging Properties in Unified Multimodal Pretraining},
+  author  = {Deng, Chaorui and Zhu, Deyao and Li, Kunchang and Gou, Chenhui and Li, Feng and Wang, Zeyu and Zhong, Shu and Yu, Weihao and Nie, Xiaonan and Song, Ziang and Shi, Guang and Fan, Haoqi},
   journal = {arXiv preprint arXiv:2505.14683},
   year    = {2025}
 }
