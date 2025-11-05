@@ -16,8 +16,8 @@
   <a href="https://zan.chat/fast-bagel">
     <img src="https://img.shields.io/badge/Project-Website-0A66C2?logo=safari&logoColor=white" alt="LGCC Project Website"/>
   </a>
-  <a href="https://arxiv.org/abs/2505.14683">
-    <img src="https://img.shields.io/badge/arXiv-2505.14683-b31b1b?logo=arxiv&logoColor=white" alt="LGCC Paper on arXiv"/>
+  <a href="https://arxiv.org/abs/2511.01894">
+    <img src="https://img.shields.io/badge/arXiv-2511.01894-b31b1b?logo=arxiv&logoColor=white" alt="LGCC Paper on arXiv"/>
   </a>
   <a href="https://huggingface.co/zanchat-ai/fast-bagel">
     <img src="https://img.shields.io/badge/Model-Hugging%20Face-ffc107?logo=huggingface&logoColor=black" alt="LGCC (Fast-BAGEL) on Hugging Face"/>
@@ -121,7 +121,7 @@ If you find our work useful for your research, please cite our paper:
 @article{liu2025-fast-bagel,
   title   = {LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency},
   author  = {Fangbing Liu and Pengfei Duan and Wen Li and Yi He},
-  journal = {arXiv preprint arXiv:2511.todo},
+  journal = {arXiv preprint arXiv:2511.01894},
   year    = {2025}
 }
 ```
