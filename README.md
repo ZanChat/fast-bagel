@@ -32,7 +32,7 @@
 
 ---
 
-**LGCC** (publicly released as **Fast-BAGEL**) is a novel framework that addresses key limitations in flow matching-based image editing models like [BAGEL](https://github.com/google/bagel). Existing methods often suffer from **detail degradation**, **content inconsistency**, and **slow inference speeds**. Our framework introduces two core innovations—**Local Gaussian Noise Coupling (LGNC)** and **Content Consistency Loss (CCL)**—to deliver faster, more detailed, and context-aware image edits.
+**LGCC** (publicly released as **Fast-BAGEL**) is a novel framework that addresses key limitations in flow matching-based image editing models like [BAGEL](https://github.com/ByteDance-Seed/Bagel). Existing methods often suffer from **detail degradation**, **content inconsistency**, and **slow inference speeds**. Our framework introduces two core innovations—**Local Gaussian Noise Coupling (LGNC)** and **Content Consistency Loss (CCL)**—to deliver faster, more detailed, and context-aware image edits.
 
 ## ✨ Key Contributions
 
